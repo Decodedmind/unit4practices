@@ -13,8 +13,9 @@
 
 - [ ] Create a ticket.
 - [ ] Find a ticket by id.
+- [ ] Give a list of all tickets
 - [ ] Upgrade to first class: makes the first class field true.
-- [ ] Delete an ticket given the object id.
+- [ ] Delete a ticket given the object id.
 - [ ] Filter tickets by destination.
-- [ ] Filter tickets by first class.
+- [ ] Filter tickets by first class, should only show passengers that are first class.
 - [ ] Update a tickets checked bags value.
